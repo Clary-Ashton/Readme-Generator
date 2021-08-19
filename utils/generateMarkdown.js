@@ -1,30 +1,37 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
-function renderLicenseBadge(license) {}
+/*  This is a function that returns a license badge based on which license is passed in. In this case, 
+there is a MIT license.*/
 
- // TODO: Create a function that returns the license link
- // If there is no license, return an empty string
+function renderLicenseBadge(license) {
+  let licenseType = license.license;  
+   if(licenseType === 'MIT') {
+    return `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
+  }
+}
 
+ // This is a function that returns the MIT license link
+ 
 function renderLicenseLink(license) {
   return "https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>"
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// This is a function that returns the license section of README
 
 function renderLicenseSection(license) {
   return `# ${data.license}`
 }
 
-//https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>
+// Here I have created a function to generate markdown for README
 
-// TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+   return `# ${data.title}
 https://github.com/${data.github}/${data.title}
 
  # Licence
    ${data.license}
+
+   function renderLicenseLink(license) {
+    return "https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>"
+  }
 
 # Description
 ${data.description}
@@ -48,18 +55,9 @@ ${data.description}
    # Contact
    ${data.email}
 
-
-   
-`
-}
+  `}
  
 
+  module.exports = generateMarkdown;
 
 
-
-
-
-
-
-
-module.exports = generateMarkdown;
