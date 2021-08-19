@@ -1,14 +1,3 @@
 /node_modules
 /DS_Store
-
- fs.writeFile(fileName, JSON.stringify(data, null, '\t'), (err) =>
-      err ? console.log(err) : console.log('Success!')
-    );
-
-
-    return fs.writeFileSync(path.join(__dirname, fileName), data);
-
-    
-    
-    
-    https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
+ 

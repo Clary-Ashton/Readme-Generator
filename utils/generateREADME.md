@@ -1,1 +1,33 @@
-"# ghhh\nhttps://github.com/Clary-Ashton/ghhh\n\n # Licence\n   gghh\n\n   function renderLicenseLink(license) {\n    return \"https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>\"\n  }\n\n# Description\nggh\n\n# Table of Contents\n* [Installation](#Installation)\n* [Usage](#usage)\n* [Contribution](#Contribution)\n* [License](#license)\n* [Tests](#tests)\n* [Contact](#contact)\n \n # Installation\n  ggh\n # Usage\n   ggh\n # Contribution\n  fggh\n   # Tests\n   ggh\n   # Contact\n   hjk\n\n  "
+# Test
+https://github.com/rhysb/Test
+
+ # Licence
+   mit
+
+   function renderLicenseLink(license) {
+    return "https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>"
+  }
+
+# Description
+testing
+
+# Table of Contents
+* [Installation](#Installation)
+* [Usage](#usage)
+* [Contribution](#Contribution)
+* [License](#license)
+* [Tests](#tests)
+* [Contact](#contact)
+ 
+ # Installation
+  npm i
+ # Usage
+   stuff
+ # Contribution
+  write code
+   # Tests
+   jest
+   # Contact
+   rt@gmail.com
+
+  

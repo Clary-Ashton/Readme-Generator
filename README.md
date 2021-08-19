@@ -108,4 +108,8 @@ You are required to submit the following for review:
 
 ---
 
+## Resources
+
+https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
+
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

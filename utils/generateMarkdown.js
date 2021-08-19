@@ -26,12 +26,10 @@ function generateMarkdown(data) {
    return `# ${data.title}
 https://github.com/${data.github}/${data.title}
 
- # Licence
-   ${data.license}
+# Licence
+${data.license}
 
-   function renderLicenseLink(license) {
-    return "https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>"
-  }
+${renderLicenseLink(license)}
 
 # Description
 ${data.description}
