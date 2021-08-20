@@ -22,7 +22,7 @@ testing
 - [Tests](#tests)
 - [Licence](#licence-1)
 - [Contact](#contact)
-- [Link](#link)
+- [Demo](#demo)
  
  # Installation
   npm i
@@ -37,7 +37,7 @@ testing
    [![License: MIT](https://img.shields.io/github/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    # Contact
    rt@gmail.com
-   # Link
+   # Demo
    https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
 
   
