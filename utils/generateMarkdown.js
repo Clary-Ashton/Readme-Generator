@@ -25,8 +25,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
    return `# ${data.title}
 
-   https://github.com/${data.github}/${data.title}
-
+  
 https://github.com/Clary-Ashton/Readme-Generator
 
  
@@ -54,6 +53,8 @@ ${data.description}
 ${data.license}
 # Contact
    ${data.email}
+   # link
+   ${data.link}
 
   `}
  
