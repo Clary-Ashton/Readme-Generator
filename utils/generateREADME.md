@@ -1,15 +1,13 @@
-# Test
-https://github.com/rhysb/Test
+# README GENERATOR
 
- # Licence
-   mit
+   https://github.com/My github username is: Clary-Ashton./README GENERATOR
 
-   function renderLicenseLink(license) {
-    return "https://img.shields.io/github/license/<Clary-Ashton>/<Readme-Genrator>"
-  }
+https://github.com/Clary-Ashton/Readme-Generator
 
+ 
 # Description
-testing
+This project is about designing and testing a simple but effective professional Readme Generator that will allow users to create
+
 
 # Table of Contents
 * [Installation](#Installation)
@@ -20,14 +18,16 @@ testing
 * [Contact](#contact)
  
  # Installation
-  npm i
+  npm i was used to install dependencies.
  # Usage
-   stuff
+   This App is just for demo. There are not instructions to follow.
  # Contribution
-  write code
+  This App is just for demo. There are not instructions to follow.
    # Tests
-   jest
-   # Contact
-   rt@gmail.com
+   npm run test.
+   # Licence
+For this project a MIT license is been used.
+# Contact
+   My email address is: clarynsik@hotmail.com
 
   

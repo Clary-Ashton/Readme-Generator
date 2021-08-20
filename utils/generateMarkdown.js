@@ -24,15 +24,15 @@ function renderLicenseSection(license) {
 
 function generateMarkdown(data) {
    return `# ${data.title}
-https://github.com/${data.github}/${data.title}
 
-# Licence
-${data.license}
+   https://github.com/${data.github}/${data.title}
 
-${renderLicenseLink(license)}
+https://github.com/Clary-Ashton/Readme-Generator
 
+ 
 # Description
 ${data.description}
+
 
 # Table of Contents
 * [Installation](#Installation)
@@ -50,7 +50,9 @@ ${data.description}
   ${data.contribution}
    # Tests
    ${data.tests}
-   # Contact
+   # Licence
+${data.license}
+# Contact
    ${data.email}
 
   `}
