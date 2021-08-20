@@ -1,33 +1,43 @@
-# README GENERATOR
-
-   https://github.com/My github username is: Clary-Ashton./README GENERATOR
-
-https://github.com/Clary-Ashton/Readme-Generator
-
+# Test
  
-# Description
-This project is about designing and testing a simple but effective professional Readme Generator that will allow users to create
 
+ # Licence
+   
+
+   function renderLicenseLink(license) {
+    return "https://img.shields.io/github/badge/license-MIT-yellow.svg/<Clary-Ashton>/<Readme-Genrator>"
+  }
+
+# Description
+testing
 
 # Table of Contents
-* [Installation](#Installation)
-* [Usage](#usage)
-* [Contribution](#Contribution)
-* [License](#license)
-* [Tests](#tests)
-* [Contact](#contact)
+- [Test](#test)
+- [Licence](#licence)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Tests](#tests)
+- [Licence](#licence-1)
+- [Contact](#contact)
+- [Link](#link)
  
  # Installation
-  npm i was used to install dependencies.
+  npm i
  # Usage
-   This App is just for demo. There are not instructions to follow.
+   stuff
  # Contribution
-  This App is just for demo. There are not instructions to follow.
+  write code
    # Tests
-   npm run test.
+   jest
    # Licence
-For this project a MIT license is been used.
-# Contact
-   My email address is: clarynsik@hotmail.com
+
+   [![License: MIT](https://img.shields.io/github/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   # Contact
+   rt@gmail.com
+   # Link
+   https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
 
   
