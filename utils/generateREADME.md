@@ -29,7 +29,7 @@ MIT [![License: MIT](https://img.shields.io/github/badge/license-MIT-yellow.svg)
 # Contact
    My email address is: clarynsik@hotmail.com
    # link
-   https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
+   https://www.youtube.com/watch?v=nNYtcah87XU
 
 
   
