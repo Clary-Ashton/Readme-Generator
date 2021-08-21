@@ -1,7 +1,6 @@
-# Test
- 
+# README GENERATOR
 
- # Licence
+
    
 
    function renderLicenseLink(license) {
@@ -12,15 +11,14 @@
 testing
 
 # Table of Contents
-- [Test](#test)
-- [Licence](#licence)
+- [README GENERATOR](#readme-generator)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
 - [Tests](#tests)
-- [Licence](#licence-1)
+- [Licence](#licence)
 - [Contact](#contact)
 - [Demo](#demo)
  
