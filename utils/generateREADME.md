@@ -1,41 +1,34 @@
 # README GENERATOR
 
+  
+https://github.com/Clary-Ashton/Readme-Generator
 
-   
-
-   function renderLicenseLink(license) {
-    return "https://img.shields.io/github/badge/license-MIT-yellow.svg/<Clary-Ashton>/<Readme-Genrator>"
-  }
-
+ 
 # Description
-testing
+This project is about creating a simple but effective Readme Generator.
+
 
 # Table of Contents
-- [README GENERATOR](#readme-generator)
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Tests](#tests)
-- [Licence](#licence)
-- [Contact](#contact)
-- [Demo](#demo)
+* [Installation](#Installation)
+* [Usage](#usage)
+* [Contribution](#Contribution)
+* [License](#license)
+* [Tests](#tests)
+* [Contact](#contact)
  
  # Installation
-  npm i
+   npm i was used to install dependencies.
  # Usage
-   stuff
+   This App is just for demo. There are not instructions to follow.
  # Contribution
-  write code
+  I would like to let you know that this repository is just for demo and unfortunately is not accepting any contributions. 
    # Tests
-   jest
+   npm run test.
    # Licence
-
-   [![License: MIT](https://img.shields.io/github/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-   # Contact
-   rt@gmail.com
-   # Demo
-   https://www.youtube.com/channel/UCj8L_GvWThWnhSgiJ8-bI3g
+MIT [![License: MIT](https://img.shields.io/github/badge/license-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Contact
+   My email address is: clarynsik@hotmail.com
+   # link
+   undefined
 
   
