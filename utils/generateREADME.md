@@ -4,7 +4,9 @@
 https://github.com/Clary-Ashton/Readme-Generator
 
  
-# Description This project is about creating a simple but effective Readme Generator.
+# Description 
+
+This project is about creating a simple but effective Readme Generator.
 
 
 # Table of Contents
