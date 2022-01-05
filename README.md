@@ -1,6 +1,8 @@
  # 09 Node.js Homework: Professional README Generator
  
- ## Creating a good readme generator using javaScript inquirer package and nodejs command line. 
+ ## Description
+ 
+ Creating a good readme generator using javaScript inquirer package and nodejs command line. 
 
 ## Your Task
 
